@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="iterators",
     packages = ['iterators'],
-    version="release_version",
+    version="0.2.1",
     author="leangaurav",
     author_email="leangaurav.me@gmail.com",
     description="Iterator utility classes and functions",
